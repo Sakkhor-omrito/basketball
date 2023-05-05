@@ -28,6 +28,7 @@ h1{
     font-weight: 700;
     color: #fff;
     letter-spacing: 4px;
+    color: var(--primary-color);
 }
 /* navbar part css */
 .navbar_ul .nav-item .active{
