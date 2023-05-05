@@ -266,14 +266,13 @@ h1{
 }
 
 /* proven success part */
-#proven_success{
-height:500px;
-background-position: center;
-background-repeat: no-repeat;
-background-position: center!important;
-width: 100%;
-position: relative;
-
+#proven_success {
+  height: 495px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: center!important;
+  width: 100%;
+  position: relative;
 }
 #proven_success::after{
   position: absolute;
@@ -331,10 +330,10 @@ position: relative;
  }
 
  /* get better part start */
- #get_better{
+ #get_better {
   background-color: #000000;
-  padding-bottom: 200px;
- }
+  padding-bottom: 189px;
+}
  .get_header h2{
   font-size: 60px;
   padding-top: 100px;
