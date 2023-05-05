@@ -30,6 +30,9 @@ h1{
     letter-spacing: 4px;
 }
 /* navbar part css */
+.navbar_ul .nav-item .active{
+  color: var(--tartiary-color);
+}
 .navLogo img{
   max-width: 55px;
 }
@@ -72,7 +75,7 @@ h1{
 .banner_left{
   z-index: 99999;
   position: relative;
-  margin-top:130px;
+  margin-top:150px;
 }
 .banner_left h1{
   margin-bottom:15px;
@@ -97,9 +100,7 @@ h1{
 .banner_right img{
   max-width: 500px;
 }
-.margin{
- 
-}
+
 
 /* skill traning part */
 #skill_traning{
