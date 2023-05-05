@@ -292,9 +292,9 @@ position: relative;
   background-color: rgba(0,0,0,.4);
   
 }
-.proven_content{
+.proven_content {
   text-align: center;
-  transform: translateY(80%);
+  transform: translateY(55%);
   z-index: 9999999;
   position: relative;
 }
