@@ -1,0 +1,125 @@
+@media (min-width:1400px){
+    .navbar_ul li a {
+        font-size: 16px;
+    }
+
+    /* banner part */
+    .skill_traing_right h2 {
+        font-size: 49px;
+        width: 90%;
+    }
+    .skill_traing_right {
+        margin-left:5px;
+    }
+    .skill_traing_right p {
+        font-size: 24px;
+    }
+  
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    /* navbar part */
+    .navbar_ul li a {
+        font-size: 13px;
+    }
+    /* banner part */
+    #banner_part {
+        height: 500px;
+    }
+    .banner_left h1 {
+        font-size: 48px;
+    }
+    .banner_left h2 {
+        font-size: 40px;
+        padding-bottom: 10px;
+    }
+    .banner_left h3 {
+        font-size: 36px;
+    }
+    .banner_right img {
+        max-width: 350px;
+    }
+    .banner_right {
+        margin-top: 80px;
+    }
+    /* skill part */
+    .skill_traing_left video {
+        width: 400px;
+        border-radius: 10px;
+    }
+    .skill_header h2 {
+        font-size: 40px;
+    }
+    .skill_traing_right h2 {
+        font-size: 36px;
+    }
+    .skill_traing_right {
+        margin-left:0;
+    }
+    .skill_traing_right p {
+        font-size: 18px;
+    }
+
+ /* expert part */
+ #expert_coaches {
+	height: 450px;
+}
+.exper_content {
+	transform: translateY(53%);
+}
+
+/* traning focus */
+.focus_left video {
+	width: 400px;
+}
+.focus_right {
+    margin-left: 30px;
+}
+.focus_right h2 {
+	font-size: 50px;
+	margin-bottom: 15px;
+}
+.focus_right h4 {
+	font-size: 26px;
+}
+/* proven */
+#proven_success {
+	height: 400px;
+}
+.proven_content h2 {
+	font-size: 50px;
+}
+.proven_content h4 {
+	color: var(--secondary-color);
+	font-size: 23px;
+    line-height: 32px;
+}
+.proven_content h5 {
+	font-size: 17px;
+}
+.proven_content {
+	transform: translateY(40%);
+}
+.youtube i {
+    font-size: 22px;
+	height: 45px;
+	width: 45px;
+	line-height: 45px;
+}
+/* get better */
+#get_better {
+	padding-bottom: 100px;
+}
+.get_header h2 {
+	font-size: 50px;
+}
+.get_text h3 {
+	font-size: 34px;
+}
+/* get basketball */
+.localhoops_content h2 {
+	font-size: 49px;
+}
+.localhoops_content h4 {
+	font-size: 22px;
+}
+}
